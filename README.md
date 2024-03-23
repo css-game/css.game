@@ -1,2 +1,2 @@
-# css.foo
+# css.game
 All things CSS
